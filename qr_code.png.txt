@@ -1,0 +1,1 @@
+This file, qr_code.png, is a QR code image file. It is used for authenticating the WhatsApp bot.
